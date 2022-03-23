@@ -1,12 +1,7 @@
-/**
- * CSC 540-01 Assignment #2
- * 
- * On my honor, Ethan Bridgehouse, this assignment is my own work.  
- * I, Ethan Bridgehouse, will follow the instructor's rules and processes 
- * related to academic integrity as directed in the course syllabus.
- *
- */
- 
+
+
+//CSC 540-01 Assignment #2
+
  //Imports
 import java.io.*;
 import java.util.*;
