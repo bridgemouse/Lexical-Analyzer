@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class A2 {
+public class LA {
 	
 	//Constants
 	final static int INT = 10;
